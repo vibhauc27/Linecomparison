@@ -29,7 +29,7 @@ namespace LineComparison
             {
                 Console.WriteLine("length of line 1 greater than length of line 2", lengthOfFirstPoints, lengthOfSecondPoints);
             }
-            if (lengthOfSecondPoints < 0)
+            else if (lengthOfSecondPoints < 0)
             {
                 Console.WriteLine("length of line 1 is lesser than length of line 2", lengthOfFirstPoints, lengthOfSecondPoints);
             }
