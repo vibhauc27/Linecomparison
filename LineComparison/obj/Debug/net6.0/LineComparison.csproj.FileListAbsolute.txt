@@ -1,0 +1,15 @@
+C:\Users\vindy\source\repos\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.exe
+C:\Users\vindy\source\repos\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.deps.json
+C:\Users\vindy\source\repos\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.runtimeconfig.json
+C:\Users\vindy\source\repos\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.dll
+C:\Users\vindy\source\repos\LineComparison\LineComparison\bin\Debug\net6.0\ref\LineComparison.dll
+C:\Users\vindy\source\repos\LineComparison\LineComparison\bin\Debug\net6.0\LineComparison.pdb
+C:\Users\vindy\source\repos\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.csproj.AssemblyReference.cache
+C:\Users\vindy\source\repos\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vindy\source\repos\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.AssemblyInfoInputs.cache
+C:\Users\vindy\source\repos\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.AssemblyInfo.cs
+C:\Users\vindy\source\repos\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.csproj.CoreCompileInputs.cache
+C:\Users\vindy\source\repos\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.dll
+C:\Users\vindy\source\repos\LineComparison\LineComparison\obj\Debug\net6.0\ref\LineComparison.dll
+C:\Users\vindy\source\repos\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.pdb
+C:\Users\vindy\source\repos\LineComparison\LineComparison\obj\Debug\net6.0\LineComparison.genruntimeconfig.cache
