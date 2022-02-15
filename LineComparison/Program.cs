@@ -24,13 +24,18 @@ namespace LineComparison
             lengthOfFirstPoints = Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2));
             lengthOfSecondPoints = Math.Sqrt(Math.Pow((x4 - x3), 2) + Math.Pow((y4 - y3), 2));
 
-            if (lengthOfFirstPoints == lengthOfSecondPoints)
+            //int status = lengthOfFirstPoints.CompareTo(lengthOfSecondPoints);
+            if (lengthOfFirstPoints > 0)
             {
-                Console.WriteLine("Length of both Lines are Equal " + lengthOfFirstPoints + "=" + lengthOfSecondPoints);
+                Console.WriteLine("length of line 1 greater than length of line 2", lengthOfFirstPoints, lengthOfSecondPoints);
+            }
+            if (lengthOfSecondPoints < 0)
+            {
+                Console.WriteLine("length of line 1 is lesser than length of line 2", lengthOfFirstPoints, lengthOfSecondPoints);
             }
             else
             {
-                Console.WriteLine("Length of both Lines are Not Equal");
+                Console.WriteLine("length of line 1 is equal to length of line 2", lengthOfFirstPoints, lengthOfSecondPoints);
             }
 
         }
